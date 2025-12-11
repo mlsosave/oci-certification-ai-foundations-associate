@@ -1,0 +1,10 @@
+Modelos de Visión por Computadora 
+
+    Redes Neuronales Convolucionales (CNNs): Son ampliamente usadas para reconocimiento de imágenes y detección de objetos, como vehículos en movimiento.
+        Ejemplos: YOLO (You Only Look Once), SSD (Single Shot Detector), Faster R-CNN.
+         
+    Modelos de Segmentación: Para segmentar y distinguir vehículos y carriles.
+        Ejemplo: U-Net, Mask R-CNN.
+         
+    Modelos de seguimiento de objetos (Object Tracking): Para rastrear individualmente los vehículos a lo largo del tiempo.
+        Ejemplo: Deep SORT, SORT.
