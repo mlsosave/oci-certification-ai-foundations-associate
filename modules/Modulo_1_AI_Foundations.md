@@ -1,4 +1,4 @@
-# Módulo 1: Fundamentos de Inteligencia Artificial (AI Foundations)
+# Módulo 1: Fundamentos de Inteligencia Artificial (AI Foundations) 
 
 ## 📋 Información del Módulo
 
